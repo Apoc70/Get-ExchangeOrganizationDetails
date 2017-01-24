@@ -16,7 +16,7 @@ Prefix to be used with log files and zip archive
 Folder name of sub folder where all log files will be stored (default: ExchangeOrgInfo)
 
 #Zip
-Switch to optonally send all log files to a zip archive
+Switch to optionally send all log files to a zip archive
 
 #SendMail
 Switch to send the zipped archive via email
