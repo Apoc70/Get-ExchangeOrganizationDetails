@@ -63,7 +63,7 @@ RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
 Download and vote at TechNet Gallery
 
-- [https://gallery.technet.microsoft.com/Script-to-remove-unwanted-9d119c6b](https://gallery.technet.microsoft.com/Script-to-remove-unwanted-9d119c6b)
+- [https://gallery.technet.microsoft.com/Gather-Exchange-configurati-24dbf8d0](https://gallery.technet.microsoft.com/Gather-Exchange-configurati-24dbf8d0)
 
 ## Credits
 
